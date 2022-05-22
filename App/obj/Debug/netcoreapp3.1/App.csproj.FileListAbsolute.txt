@@ -1,0 +1,16 @@
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\bin\Debug\netcoreapp3.1\App.exe
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\bin\Debug\netcoreapp3.1\App.deps.json
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\bin\Debug\netcoreapp3.1\App.dll
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\bin\Debug\netcoreapp3.1\App.pdb
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\obj\Debug\netcoreapp3.1\App.csproj.AssemblyReference.cache
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\obj\Debug\netcoreapp3.1\App.Form1.resources
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\obj\Debug\netcoreapp3.1\App.csproj.GenerateResource.cache
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\obj\Debug\netcoreapp3.1\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\obj\Debug\netcoreapp3.1\App.dll
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\obj\Debug\netcoreapp3.1\App.pdb
+C:\Users\Makskyreer\Desktop\mod-task10-ufo-b10\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
